@@ -1,5 +1,5 @@
 I currently lead the Partnership team at Frame.io which includes DevX, Partner Success, and Camera to Cloud partners.
-You can find me active on the [frame.io developer forums](forum.frame.io) if you have any questions about our platform or c2c APIs.
+You can find me active on the [frame.io developer forums](https://forum.frame.io) if you have any questions about our platform or c2c APIs.
 
 I come from the filmmaking world initially, building out systems and workflows when I was a Digital Imaging Technician (DIT). I used to write about my experiences on my [blog](https://dorkinatent.com), and you can find my past work [here](https://www.imdb.com/name/nm2381085).
 
