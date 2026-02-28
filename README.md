@@ -1,49 +1,14 @@
-# Charlie Anderson
+I currently lead the Partnership team at Frame.io which includes DevX, Partner Success, and Camera to Cloud partners.
+You can find me active on the [frame.io developer forums](forum.frame.io) if you have any questions about our platform or c2c APIs.
 
-**Partnerships & Developer Experience Leader · Former Cinematographer & DIT · Tinkerer**
+I come from the filmmaking world initially, building out systems and workflows when I was a Digital Imaging Technician (DIT). I used to write about my experiences on my blog, dorkinatent.com, and you can find my past work [here.](https://www.imdb.com/name/nm2381085)
 
----
+I've since honed my passions for photography and cinematography, and I still find time every so often to get behind the lens and work with some of the most talented folks over at Maximum Effort. You can find my portfolio [here.](charliethedp.com)
 
-I lead the Partnerships team at Frame.io (Adobe), which spans Developer Experience, Camera to Cloud partner ecosystem, and customer/partner success. Our mission is to make Frame.io the go-to platform for creative production by empowering developers and partners to integrate it everywhere.
+I'm a tinkerer and DIYer at heart and so when I can't find a solution to a problem I have I tend to make up the solution myself, hence why I turned to coding. Cursor and Claude Code have expanded my abilities to take ideas and turn them into practical applications.
 
-Day to day that means building SDK programs, growing technical partner ecosystems across hardware and software, rebuilding developer documentation, and staying close to what developers are actually experiencing — which is why I'm still answering questions in the forums myself.
+I take the same approach to coding that I do with filmmaking: fix it in prep. The more info you can provide with as much detail as possible with the problems and audiences clearly defined, the better outcome you will get with AI.
 
----
+This github is where my thoughts live, some repos are for side projects (also a big gamer), and mostly where I can collaborate with friends who are way more talented than I.
 
-## How I got here
-
-I spent 15 years as a cinematographer and Digital Imaging Technician (DIT) on film and TV productions — network dramas, commercials, music videos. A DIT sits at the intersection of the camera and post-production, managing on-set data pipelines, color science, and technical workflows under pressure on live sets.
-
-That job made me a coder before I knew that's what I was. I was writing scripts to automate data wrangling, building custom tools to manage footage handoffs, and figuring out how to make complex technical systems work reliably when there was no room for failure. When I moved into developer relations and partnerships, the instinct was the same — understand how things actually work, build the infrastructure that makes them reliable, and help other people get there faster.
-
-The tinkerer instinct never left. It just found a different outlet.
-
----
-
-## What I'm building with right now
-
-- **Claude / Opus via Cursor** — SwiftUI projects, learning iOS development from scratch
-- **Claude Code** — terminal, Warp, for workflow automation and scripting
-- **Xcode** — because SwiftUI seemed hard and that's usually a good reason to start
-
----
-
-## What I think about
-
-- What great AI developer experiences actually feel like from the developer side
-- The gap between "the API is powerful" and "the developer knows what to build next"
-- How responsible AI development shows up in the programs and content we build, not just the policies we write
-- Why the best developer relations is indistinguishable from genuine technical community membership
-
----
-
-## Links
-
-- 💼 Work: [github.com/candersonframe](https://github.com/candersonframe)
-- 🎬 Film work: [charliethedp.com](https://charliethedp.com)
-- 💬 Developer forum: [forum.frame.io](https://forum.frame.io)
-- 🔗 LinkedIn: [linkedin.com/in/charlieandersondp](https://linkedin.com/in/charlieandersondp)
-
----
-
-*Based in Stamford, CT. Currently studying Japanese. Always have a camera nearby.*
+So "stay awhile and listen", and if you'd like to contribute feel free to open a PR.
