@@ -3,7 +3,7 @@ You can find me active on the [frame.io developer forums](https://forum.frame.io
 
 I come from the filmmaking world initially, building out systems and workflows when I was a Digital Imaging Technician (DIT). I used to write about my experiences on my [blog](https://dorkinatent.com), and you can find my past work [here](https://www.imdb.com/name/nm2381085).
 
-I've since honed my passions for photography and cinematography, and I still find time every so often to get behind the lens and work with some of the most talented folks over at Maximum Effort. You can find my portfolio [here](charliethedp.com).
+I've since honed my passions for photography and cinematography, and I still find time every so often to get behind the lens and work with some of the most talented folks over at Maximum Effort. You can find my portfolio [here](https://charliethedp.com).
 
 I'm a tinkerer and DIYer at heart and so when I can't find a solution to a problem I have I tend to make up the solution myself, hence why I turned to coding. Cursor and Claude Code have expanded my abilities to take ideas and turn them into practical applications.
 
